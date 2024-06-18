@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tairfuldyao.github.io/sitemap
+Sitemap: https://tairfuldyao.github.io/app/sitemap
+Sitemap: https://tairfuldyao.github.io/assets/sitemap
+Sitemap: https://tairfuldyao.github.io/css/sitemap
+Sitemap: https://tairfuldyao.github.io/includes/sitemap
+Sitemap: https://tairfuldyao.github.io/item/sitemap
+Sitemap: https://tairfuldyao.github.io/src/sitemap
